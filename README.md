@@ -23,3 +23,8 @@
   npm test
   ## Questions
   If you have any questions about this projects, please contact me directly at johnsief12@gmail.com. You can view more of my projects at https://github.com/johnsiefert.
+
+
+![readme-sample-scnshot](https://user-images.githubusercontent.com/91295870/144715367-00494d82-41bd-4d00-99c4-36e1e18484db.png)
+
+![command-line](https://user-images.githubusercontent.com/91295870/144715382-2e8a9998-71ea-4965-8909-80b03e2da54f.png)
